@@ -1,0 +1,8 @@
+/master_repo/
+/submitted/
+.vscode/
+
+*.zip
+*.o
+ipkpd
+ipkcpc
